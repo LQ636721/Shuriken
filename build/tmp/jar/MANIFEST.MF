@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: tinker_shuriken
+Specification-Vendor: qskylop
+Specification-Version: 1
+Implementation-Title: Shuriken
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor: qskylop
+Implementation-Timestamp: 2024-03-02T01:59:50+0800
+
